@@ -1,0 +1,5 @@
+:root{--bg:#0f1115;--fg:#e8e8ea;--mut:#9aa0aa;--ac:#e0b04a}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,sans-serif}
+main{max-width:720px;margin:0 auto;padding:48px 16px}
+h1{color:var(--ac);margin-top:0}h2{margin-top:2em;font-size:1.15em}
+a{color:var(--ac)}small,footer{color:var(--mut)}footer{margin-top:3em;font-size:.9em}
